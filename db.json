@@ -1,8 +1,4 @@
-{
-"userSessionId":"2662378500499477",
-"dbName":"hkDemo60",
-"type": "quickreply",
-"message":{"text": "goooood", "actions": [{
+{"text": "goooood", "actions": [{
 	"type": "reply",
 	"text": "button1",
 	"payload": "button1"
@@ -12,4 +8,3 @@
 	"payload": "button2"
 }
 ]}
-}
